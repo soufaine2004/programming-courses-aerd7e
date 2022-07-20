@@ -1,3 +1,3 @@
 console.log("mmmmmmm");
-console.log("mi name is");
+console.log("my name is");
 console.log("soufaine");
